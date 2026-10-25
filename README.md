@@ -70,6 +70,3 @@ chmod +x gradlew
 4.  提交更改 (`git commit -m 'Add some AmazingFeature'`)。
 5.  推送到分支 (`git push origin feature/AmazingFeature`)。
 6.  提交 Pull Request。
-
----
-*文档由 Gemini CLI 生成。*
